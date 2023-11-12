@@ -1,0 +1,11 @@
+D:\Курс_II\ООАиП\Adapter\Ducks\bin\Debug\Ducks.exe.config
+D:\Курс_II\ООАиП\Adapter\Ducks\bin\Debug\Ducks.exe
+D:\Курс_II\ООАиП\Adapter\Ducks\bin\Debug\Ducks.pdb
+D:\Курс_II\ООАиП\Adapter\Ducks\bin\Debug\ClassLibrary1.dll
+D:\Курс_II\ООАиП\Adapter\Ducks\bin\Debug\ClassLibrary1.pdb
+D:\Курс_II\ООАиП\Adapter\Ducks\obj\Debug\Ducks.csproj.AssemblyReference.cache
+D:\Курс_II\ООАиП\Adapter\Ducks\obj\Debug\Ducks.csproj.SuggestedBindingRedirects.cache
+D:\Курс_II\ООАиП\Adapter\Ducks\obj\Debug\Ducks.csproj.CoreCompileInputs.cache
+D:\Курс_II\ООАиП\Adapter\Ducks\obj\Debug\Ducks.csproj.CopyComplete
+D:\Курс_II\ООАиП\Adapter\Ducks\obj\Debug\Ducks.exe
+D:\Курс_II\ООАиП\Adapter\Ducks\obj\Debug\Ducks.pdb
